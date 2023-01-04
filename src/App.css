@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Anton');
+
+body {
+  font-family: 'Josefin Sans', cursive;
+}
+
 .App {
   text-align: center;
 }
@@ -35,4 +41,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+@fontface {
+  font-family: 'Bungee Inline', cursive;
+  src: url('https://fonts.googleapis.com/css?family=Bungee+Inline');
 }
